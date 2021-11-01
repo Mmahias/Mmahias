@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mmahias (Margaux Mahias)
-- :computer: Student at 42|Paris
+- :computer: Student at 42 |Paris
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mmahias?privacyEmail=true)](https://github.com/Mmahias/badge42)
 
