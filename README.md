@@ -3,16 +3,9 @@
 
 -------------------------------------------------------------------------------------
 
-- :swimming_woman: C-Pool on 07/09/2020
-
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mmahias?darkmode=true&cursus=C%20Piscine)](https://github.com/Mmahias/badge42)
-
-
--------------------------------------------------------------------------------------
-
 - :computer: Student at 42 |Paris
 
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mmahias)](https://github.com/Mmahias/badge42)
+[![mmahias's 42 stats](https://badge42.vercel.app/api/v2/cl2sxs96k001109mlj4sdqxmq/stats?cursusId=21&coalitionId=10)](https://github.com/JaeSeoKim/badge42)
 
 
 <!---
