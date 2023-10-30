@@ -9,7 +9,6 @@
 
 <hr style="width:50%;border:0.5px solid #ccc;margin: 20px 0"> 
 
-<br>
 
 ### 🛠 Skills :
 
