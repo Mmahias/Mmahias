@@ -1,6 +1,6 @@
 <div>
   
-## 👋 Hi, I'm [@mmahias](https://github.com/margauxm-j) (Margaux Mahias)
+## 👋 Hi, I'm [@margaux](https://github.com/margauxm-j) (Margaux Mahias)
 
 🎓 Student at [![image](https://github.com/user-attachments/assets/db4e2932-e346-41f6-8c28-45fd2c73edf3)
 ](https://www.42.fr/)
